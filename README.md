@@ -5,7 +5,7 @@
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/jiangjiang1116/count.svg" />
-<!-- <img src="https://count.getloli.com/get/@:jiangjiang1116?theme=moebooru"> -->
+<!-- <img src="https://count.getloli.com/get/@:jiangjiang1116?theme=rule34"> -->
 
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jiangjiang1116&left_color=green&right_color=red) --!>
