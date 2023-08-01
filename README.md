@@ -4,8 +4,6 @@
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
 
 ### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/jiangjiang1116/count.svg" />
-
 <img src="https://count.getloli.com/get/@:jiangjiang1116" alt=":jiangjiang1116" />
 
 
