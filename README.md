@@ -12,4 +12,4 @@
 <!-- 这是一个统计图 -->
 <!-- [![Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangjiang1116)](https://github.com/jiangjiang1116/github-readme-stats) -->
 
-![status](https://github-readme-stats.vercel.app/api/wakatime?username=jiangjiang1116)
+<!-- ![status](https://github-readme-stats.vercel.app/api/wakatime?username=jiangjiang1116) --!>
