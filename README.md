@@ -14,8 +14,8 @@
 <!-- [![Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangjiang1116)](https://github.com/jiangjiang1116/github-readme-stats) -->
 
 <!-- ![status](https://github-readme-stats.vercel.app/api/wakatime?username=jiangjiang1116) --!>
-
+<div class = "row">
 <img src="https://img.shields.io/badge/Bootstrap-purple"/>
 <img src="https://img.shields.io/badge/jQuery-blue"/>
-
+</div>
 
