@@ -15,6 +15,7 @@
 
 <!-- ![status](https://github-readme-stats.vercel.app/api/wakatime?username=jiangjiang1116) --!>
 
-<img src="https://img.shields.io/badge/Bootstrap-purple"/><img src="https://img.shields.io/badge/jQuery-blue"/>
+<img src="https://img.shields.io/badge/Bootstrap-purple"/>
+<img src="https://img.shields.io/badge/jQuery-blue"/>
 
 
