@@ -17,5 +17,6 @@
 <div class = "row">
 <img src="https://img.shields.io/badge/Bootstrap-purple"/>
 <img src="https://img.shields.io/badge/jQuery-blue"/>
+<img src="https://img.shields.io/badge/HTML-orange"/>
 </div>
 
