@@ -14,14 +14,5 @@
 <!-- [![Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangjiang1116)](https://github.com/jiangjiang1116/github-readme-stats) -->
 
 <!-- ![status](https://github-readme-stats.vercel.app/api/wakatime?username=jiangjiang1116) --!>
-<div class = "row">
-<img src="https://img.shields.io/badge/Bootstrap-purple"/>
-<img src="https://img.shields.io/badge/jQuery-blue"/>
-<img src="https://img.shields.io/badge/HTML-orange"/>
-<img src="https://img.shields.io/badge/CSS-blue"/>
-<img src="https://img.shields.io/badge/JavaScript-red"/>
-<img src="https://img.shields.io/badge/Vue.js-pink"/>
-<img src="https://img.shields.io/badge/Sass-green"/>
-<img src="https://img.shields.io/badge/less-gold"/>
-</div>
+
 
